@@ -1,0 +1,5 @@
+REGISTRO -m fd -k rgre
+-Err. El usuario ya existe.
+
+REGISTRO sin password <- Debería ser incorrecto.
+Comandos no implementados <- -Err. lo que sea.
